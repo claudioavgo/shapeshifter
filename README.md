@@ -7,7 +7,7 @@ I made this project to test my Python skills, i have no responsibility for the u
 Bellow have a fluxgram of malware ideia:
 ```mermaid
 graph LR
-A(Program no infected) --> B(Malware)
+A(Program no infected) --> B(Download the malware)
 B --> C(Execute Malware)
 C --> D(Malware clone legit program to choosed dir)
 D --> E(Malware rename yourself name to legit program)
