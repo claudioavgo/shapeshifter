@@ -19,7 +19,7 @@ for root, dirs, files in os.walk("."):
 
 if len(archives) > 0:
     #Attention, I'm putting the list of files in an array, and by selecting the first object,
-    #you can change it to change a specific file
+    #you can change it to a specific file
 
     file_exists = exists(str(direc)+str(archives[0]))
     if file_exists:
