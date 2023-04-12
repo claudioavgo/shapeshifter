@@ -2,7 +2,7 @@
 #   In case for use this code for illegal conduct no is my responsibility
 #
 #   Python Shapeshifter
-#   This software is maden by Coded. Visit coded.today
+#   This software is maden by Coded. Visit claudioav.com
 
 import os
 from os.path import exists
